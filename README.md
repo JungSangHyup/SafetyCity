@@ -30,7 +30,7 @@
 
 ## 주제 선정 배경
 
-![image-20220103105448924](https://user-images.githubusercontent.com/51068026/147896021-89848c95-3548-4503-969c-cdb80ce50b77.png)
+![alt-text-1](https://user-images.githubusercontent.com/51068026/147896021-89848c95-3548-4503-969c-cdb80ce50b77.png "title-1") 
 
 - 1인 가구는 다인 가구에 비해 주거침입, 절도, 폭행, 사기, 강도, 손괴 등이 많음
 
